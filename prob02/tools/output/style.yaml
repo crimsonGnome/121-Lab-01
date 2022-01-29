@@ -1,0 +1,10 @@
+---
+MainSourceFile:  '/home/joseph/Desktop/lab-01-crimsonGnome/prob02/main.cc'
+Diagnostics:
+  - DiagnosticName:  readability-magic-numbers
+    DiagnosticMessage:
+      Message:         '100 is a magic number; consider replacing it with a named constant'
+      FilePath:        main.cc
+      FileOffset:      222
+      Replacements:    []
+...
